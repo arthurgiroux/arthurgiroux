@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Giroux</h1>
-<h3 align="center">A Senior Software Engineer working on Medical Device development based in Switzerland.</h3>
+<h3 align="center">A Senior Software Engineer working on Medical Device development based in Idaho</h3>
 
 - 🔭 I’m currently working on [a C++ Gameboy emulator](https://github.com/arthurgiroux/gbemulator)
 
