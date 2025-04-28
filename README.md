@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [a C++ Gameboy emulator](https://github.com/arthurgiroux/gbemulator)
 
-- 🌱 I’m currently learning **embedded software development.**
-
 - 💬 Ask me about **medical device development**
 
 <h3 align="left">Languages and Tools:</h3>
