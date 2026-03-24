@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arthur Giroux</h1>
-<h3 align="center">A Senior Software Engineer working on Medical Device development based in Idaho</h3>
+<h3 align="center">A Principal Software Engineer working on Medical Device development based in Idaho</h3>
 
-- 🔭 I’m currently working on [a C++ Gameboy emulator](https://github.com/arthurgiroux/gbemulator)
+- 💫 I implemented a [fully functional GameBoy emulator in C++ that can run in your browser](https://arthurgiroux.github.io/grouboy/)
+- 🔭 I'm currently working on [a NES Emulator in Rust](https://github.com/arthurgiroux/grounes)
 
 - 💬 Ask me about **medical device development**
 
